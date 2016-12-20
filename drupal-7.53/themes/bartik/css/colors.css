@@ -12,7 +12,8 @@ body.overlay {
 #main-wrapper,
 #main-menu-links li a.active,
 #main-menu-links li.active-trail a {
-  background: #ffffff;
+  /*background: #ffffff;*/
+  background: red;
 }
 .tabs ul.primary li a.active {
   background-color: #ffffff;
